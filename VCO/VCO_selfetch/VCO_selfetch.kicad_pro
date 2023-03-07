@@ -324,6 +324,10 @@
     [
       "e8f5694a-ed17-47e1-8150-2d65be57d974",
       "outside_connections"
+    ],
+    [
+      "200aa316-9dd3-4c87-9ca9-d2b25eea6ce5",
+      "simple_VCOs"
     ]
   ],
   "text_variables": {}
