@@ -966,6 +966,166 @@
 				)
 			)
 		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C"
 			(pin_numbers hide)
 			(pin_names
@@ -2617,6 +2777,12 @@
 		(uuid "04984c2c-8941-46f3-b992-15318a7623ac")
 	)
 	(junction
+		(at 22.86 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06383338-f5f9-4fe3-99a5-78cf966c2680")
+	)
+	(junction
 		(at 184.15 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2725,6 +2891,12 @@
 		(uuid "3621832d-52f7-4dc4-ab8f-5e01e05c12d1")
 	)
 	(junction
+		(at 22.86 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "364f767f-1eda-4456-80ae-b6ae5ed4c591")
+	)
+	(junction
 		(at 210.82 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2755,6 +2927,12 @@
 		(uuid "5d27c336-9d72-4358-9df6-05655c71982d")
 	)
 	(junction
+		(at 36.83 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5ebc40cb-8d75-40fd-b73d-d9408c3fc011")
+	)
+	(junction
 		(at 22.86 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2777,6 +2955,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f57fb70-ef24-4dcf-9d32-1aa14e1e56ad")
+	)
+	(junction
+		(at 36.83 160.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7634a6ce-85ae-48a8-84b0-06702a95af15")
 	)
 	(junction
 		(at 22.86 26.67)
@@ -2875,6 +3059,12 @@
 		(uuid "a9944360-7bb4-4869-9276-430bf7227da5")
 	)
 	(junction
+		(at 161.29 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa2e8da5-fec8-45c5-b66a-5a1372e3544d")
+	)
+	(junction
 		(at 22.86 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2953,6 +3143,12 @@
 		(uuid "c53e1875-dd19-446f-a403-093a6fa976cf")
 	)
 	(junction
+		(at 36.83 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c62dcc6d-9a76-4d1e-8090-7b145a6c976d")
+	)
+	(junction
 		(at 52.07 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3005,6 +3201,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ee2b03c6-65b9-4bf5-9ae9-f2d1ada3e487")
+	)
+	(junction
+		(at 22.86 107.95)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f07c18b9-d541-41b4-8884-b0f2090cb263")
 	)
 	(junction
 		(at 265.43 76.2)
@@ -3253,6 +3455,16 @@
 			(type default)
 		)
 		(uuid "1040710a-f19b-4935-9a40-6f7341963f78")
+	)
+	(wire
+		(pts
+			(xy 160.02 157.48) (xy 160.02 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10df9480-905c-4be9-ac61-ef5761372160")
 	)
 	(wire
 		(pts
@@ -3556,6 +3768,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 160.02) (xy 22.86 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26b68d27-2c5d-48de-96ae-d0c1dc1043f7")
+	)
+	(wire
+		(pts
 			(xy 204.47 24.13) (xy 204.47 29.21)
 		)
 		(stroke
@@ -3606,6 +3828,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 160.02) (xy 36.83 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2906fd46-b96e-4292-8548-700a84e1489c")
+	)
+	(wire
+		(pts
 			(xy 22.86 160.02) (xy 24.13 160.02)
 		)
 		(stroke
@@ -3633,6 +3865,16 @@
 			(type default)
 		)
 		(uuid "2a944f0a-aeb7-41ee-953d-f5f2d7eaa20e")
+	)
+	(wire
+		(pts
+			(xy 160.02 163.83) (xy 161.29 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a9af164-9921-4af6-af5f-5029fe9cd0ad")
 	)
 	(wire
 		(pts
@@ -3716,6 +3958,16 @@
 	)
 	(wire
 		(pts
+			(xy 21.59 59.69) (xy 22.86 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f360dc2-b089-4c7b-bb13-4287b151f2b0")
+	)
+	(wire
+		(pts
 			(xy 180.34 105.41) (xy 180.34 93.98)
 		)
 		(stroke
@@ -3753,6 +4005,16 @@
 			(type default)
 		)
 		(uuid "32449208-eef8-47cf-a7eb-80b007870645")
+	)
+	(wire
+		(pts
+			(xy 22.86 167.64) (xy 24.13 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "329cf1c3-37e6-4084-bbec-31a094a56274")
 	)
 	(wire
 		(pts
@@ -3823,6 +4085,16 @@
 			(type default)
 		)
 		(uuid "375ee8cb-420a-4ec8-bced-776ceb3d8ced")
+	)
+	(wire
+		(pts
+			(xy 22.86 107.95) (xy 22.86 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b1fd5d1-dd8e-4eaa-8787-2605020d3941")
 	)
 	(wire
 		(pts
@@ -3913,6 +4185,16 @@
 			(type default)
 		)
 		(uuid "4264967c-960c-4f31-bb99-2fb13ca0f272")
+	)
+	(wire
+		(pts
+			(xy 160.02 105.41) (xy 160.02 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "437de2f5-714e-414f-8286-8de9635b113c")
 	)
 	(wire
 		(pts
@@ -4036,6 +4318,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 53.34) (xy 161.29 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a2e0b9d-e7f7-4a87-9fae-7e041eb59c7d")
+	)
+	(wire
+		(pts
 			(xy 184.15 21.59) (xy 186.69 21.59)
 		)
 		(stroke
@@ -4136,6 +4428,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 62.23) (xy 38.1 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d32be23-cd01-496c-8e88-d55d97c24d1e")
+	)
+	(wire
+		(pts
 			(xy 275.59 128.27) (xy 276.86 128.27)
 		)
 		(stroke
@@ -4163,6 +4465,16 @@
 			(type default)
 		)
 		(uuid "5072fbfa-a129-4f3b-8e55-2e1f1cc1557f")
+	)
+	(wire
+		(pts
+			(xy 36.83 107.95) (xy 36.83 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "509b1b30-0ec4-4995-a010-1d2c8ace97e1")
 	)
 	(wire
 		(pts
@@ -4786,6 +5098,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 59.69) (xy 162.56 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82d74493-6879-40f5-ba5d-67c29c1aa7aa")
+	)
+	(wire
+		(pts
 			(xy 180.34 41.91) (xy 179.07 41.91)
 		)
 		(stroke
@@ -4883,6 +5205,16 @@
 			(type default)
 		)
 		(uuid "88936ac3-8091-4753-b82d-cb3ecfaab36e")
+	)
+	(wire
+		(pts
+			(xy 160.02 111.76) (xy 161.29 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88d09e4b-78df-4a9d-8526-4d4dda93ed62")
 	)
 	(wire
 		(pts
@@ -5006,6 +5338,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 167.64) (xy 38.1 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "919cae7f-f4bd-4a2f-871c-2379c9a0c777")
+	)
+	(wire
+		(pts
 			(xy 210.82 133.35) (xy 210.82 134.62)
 		)
 		(stroke
@@ -5096,6 +5438,16 @@
 	)
 	(wire
 		(pts
+			(xy 22.86 114.3) (xy 24.13 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "986e8f80-4d00-4ed5-a354-c7bfea4dd6e1")
+	)
+	(wire
+		(pts
 			(xy 22.86 151.13) (xy 22.86 148.59)
 		)
 		(stroke
@@ -5126,7 +5478,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 53.34) (xy 162.56 53.34)
+			(xy 160.02 53.34) (xy 161.29 53.34)
 		)
 		(stroke
 			(width 0)
@@ -5776,6 +6128,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 114.3) (xy 38.1 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdfb60ea-71bb-4687-b3af-e8c234dc4bb7")
+	)
+	(wire
+		(pts
 			(xy 22.86 26.67) (xy 19.05 26.67)
 		)
 		(stroke
@@ -5946,6 +6308,16 @@
 	)
 	(wire
 		(pts
+			(xy 161.29 53.34) (xy 162.56 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da517802-a2de-4439-b280-238f771d9da5")
+	)
+	(wire
+		(pts
 			(xy 182.88 100.33) (xy 184.15 100.33)
 		)
 		(stroke
@@ -5963,6 +6335,16 @@
 			(type default)
 		)
 		(uuid "da7db3c9-6238-48fb-8cf1-c172f44323ab")
+	)
+	(wire
+		(pts
+			(xy 21.59 62.23) (xy 22.86 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db7ed8d8-d6ef-43f3-984c-28c9c5c94de5")
 	)
 	(wire
 		(pts
@@ -6043,6 +6425,16 @@
 			(type default)
 		)
 		(uuid "e3918b5f-726b-46e3-b791-bb0b45bccc18")
+	)
+	(wire
+		(pts
+			(xy 36.83 55.88) (xy 36.83 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e528fa34-23c8-43c2-adde-6385a0cb1d3b")
 	)
 	(wire
 		(pts
@@ -6183,6 +6575,16 @@
 			(type default)
 		)
 		(uuid "f04dff8e-a390-4b99-9ae6-5db5213fddcd")
+	)
+	(wire
+		(pts
+			(xy 22.86 59.69) (xy 22.86 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f0aa954b-1f26-42b9-b61c-16d535d2a00a")
 	)
 	(wire
 		(pts
@@ -7221,6 +7623,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 17.78 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "05e31331-0f46-4536-b74f-ada9b5fae734")
+		(property "Reference" "J9"
+			(at 18.415 107.5393 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FM_in_2"
+			(at 18.415 109.9636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 17.78 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 17.78 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 17.78 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "04686da4-59d3-45a0-8cc7-f7b5af6c697e")
+		)
+		(pin "1"
+			(uuid "0b27d5c4-ac77-4b95-b49e-ca03f2d017bb")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:-12V")
 		(at 60.96 93.98 0)
 		(unit 1)
@@ -7956,6 +8426,73 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "#PWR0140")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 24.13 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16b40a0e-67d1-4965-80c7-54745a30838b")
+		(property "Reference" "#PWR023"
+			(at 24.13 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 21.59 115.5701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cd0714c9-0e56-44a5-aee9-bcbf3d65af0e")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -8791,6 +9328,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 31.75 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "22efc46e-b419-4dcc-8989-120f54234bc2")
+		(property "Reference" "J12"
+			(at 32.385 107.5393 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CV_in_2"
+			(at 32.385 109.9636 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 31.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 31.75 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8ae863d8-8613-4ef8-a3ae-e0254b416118")
+		)
+		(pin "1"
+			(uuid "72a58a5b-91d2-48c7-9427-46263f788b9f")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Amplifier_Operational:TL074")
 		(at 176.53 73.66 0)
 		(unit 1)
@@ -8955,6 +9560,73 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "R59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 24.13 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "26c820fb-bd0f-4102-8f72-1f4ccf3c104d")
+		(property "Reference" "#PWR024"
+			(at 24.13 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 21.59 168.9101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 24.13 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 24.13 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 24.13 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7caafaab-fcbb-455b-bd92-c7ea5107ef17")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -9443,6 +10115,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 162.56 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d305020-3ca2-493f-a493-4c4e1a4d1bcc")
+		(property "Reference" "#PWR028"
+			(at 162.56 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 160.02 60.9601 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 162.56 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f28acbf-e519-4cba-836d-c58b707f825c")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Thermistor_NTC")
 		(at 73.66 30.48 180)
 		(unit 1)
@@ -9922,6 +10661,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 38.1 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36e8c348-9349-48be-8902-7d572c817012")
+		(property "Reference" "#PWR026"
+			(at 38.1 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 35.56 115.5701 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cbf1e34b-a8a6-4ab6-a23a-cf7ea4e0bf1a")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 180.34 57.15 180)
 		(unit 1)
@@ -10120,6 +10926,74 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 156.21 57.15 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "39c059aa-c86d-4cee-9def-988fe7b5076d")
+		(property "Reference" "J14"
+			(at 156.845 52.9293 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWMMOD_in_1"
+			(at 156.845 55.3536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 156.21 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 156.21 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a72fb646-812e-4591-9ccb-15cd8bec2b4a")
+		)
+		(pin "1"
+			(uuid "0ac227e2-b477-4dd4-9c55-a2c7827c7e1d")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J14")
 					(unit 1)
 				)
 			)
@@ -10478,6 +11352,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 16.51 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "427a1a94-7cd0-42e8-97cc-04f7b3b7e085")
+		(property "Reference" "J6"
+			(at 17.145 55.4693 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FM_in_1"
+			(at 17.145 57.8936 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 16.51 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 16.51 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 16.51 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "98de9aa7-3939-4875-a72b-9fc8d978ccf4")
+		)
+		(pin "1"
+			(uuid "69f24daf-1343-464d-82f1-6ad17db5c008")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Trim")
 		(at 93.98 92.71 0)
 		(unit 1)
@@ -10784,6 +11726,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 161.29 163.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45c35761-5eb0-4d36-9a28-6a7517014683")
+		(property "Reference" "#PWR030"
+			(at 161.29 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 158.75 165.1001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d10980e-e660-43c9-a901-b67a2fe97fe5")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 175.26 41.91 270)
 		(unit 1)
@@ -11049,6 +12058,73 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "#PWR0148")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 38.1 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4f1b4ce4-9852-42c7-9281-dc0c6727dc2a")
+		(property "Reference" "#PWR025"
+			(at 38.1 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 35.56 63.5001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cb186e59-0370-4ad1-8632-d0408d6e734e")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -11471,6 +12547,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 22.86 62.23 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ac1b16a-31a6-4230-a93d-fe453edf1da1")
+		(property "Reference" "#PWR020"
+			(at 22.86 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 20.32 63.5001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 22.86 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3395982-2afd-488e-bc73-f989feecab74")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:1N4148")
 		(at 149.86 130.81 0)
 		(unit 1)
@@ -11533,6 +12676,74 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "D9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 31.75 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5bfc9262-6330-4365-b6f2-e127db8872b3")
+		(property "Reference" "J13"
+			(at 32.385 160.8793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CV_in_3"
+			(at 32.385 163.3036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 31.75 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 31.75 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "24407eb8-5d95-4f05-b2eb-a47b5d22a35e")
+		)
+		(pin "1"
+			(uuid "13bbb40f-43b4-4338-8d11-e1d5f173fc0c")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J13")
 					(unit 1)
 				)
 			)
@@ -12954,6 +14165,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 154.94 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7d7e7f2b-9d56-40f5-b93b-77e8762336d7")
+		(property "Reference" "J15"
+			(at 155.575 104.9993 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWMMOD_in_2"
+			(at 155.575 107.4236 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 154.94 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 154.94 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "33c6fe40-6757-4029-a7cf-8b58141c18c3")
+		)
+		(pin "1"
+			(uuid "d48722a4-5d0c-4a77-b91d-f094e72812ac")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 198.12 78.74 180)
 		(unit 1)
@@ -14246,6 +15525,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 38.1 167.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "93fa516a-81f2-45d1-8534-4b8ce4f5cac0")
+		(property "Reference" "#PWR027"
+			(at 38.1 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 35.56 168.9101 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9810e30-0a9f-4ef4-a7e6-a324568a2c9d")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 232.41 73.66 270)
 		(unit 1)
@@ -14377,6 +15723,74 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "R92")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 31.75 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "984c80cd-c16a-45c1-bc8e-fc3c66329def")
+		(property "Reference" "J11"
+			(at 32.385 55.4693 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CV_in_1"
+			(at 32.385 57.8936 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 31.75 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 31.75 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 31.75 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a99c1ca3-8f19-46a4-a027-de945e7c8ec8")
+		)
+		(pin "1"
+			(uuid "bc6ad939-dc2b-480b-8352-fef90f442062")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -15238,6 +16652,74 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "RV1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 17.78 165.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a760b06a-b5fd-4188-9a10-d53264d617e7")
+		(property "Reference" "J10"
+			(at 18.415 160.8793 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "FM_in_3"
+			(at 18.415 163.3036 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 17.78 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 17.78 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 17.78 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "91abb2d9-7297-48b3-83f6-7d39c8d00b28")
+		)
+		(pin "1"
+			(uuid "5ab1e0b4-b2ca-46c0-b80f-af7b0c2795fd")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -18362,6 +19844,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 154.94 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec80b7c8-2606-491f-88b7-c19cb36a9ddd")
+		(property "Reference" "J16"
+			(at 155.575 157.0693 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWMMOD_IN_3"
+			(at 155.575 159.4936 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 154.94 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 154.94 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 154.94 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d3052556-d2a8-4ff6-ad25-4cf881b66e4c")
+		)
+		(pin "1"
+			(uuid "94629920-807c-47af-94b9-c8bdcffecc5e")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 190.5 73.66 270)
 		(unit 1)
@@ -18699,6 +20249,73 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "RV15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 161.29 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6224558-1b16-43c2-9bc5-608be07408e2")
+		(property "Reference" "#PWR029"
+			(at 161.29 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 158.75 113.0301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 161.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "610b5910-ac68-4d1f-a440-b3e675bcf3bb")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
