@@ -2938,6 +2938,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 127) (xy 102.87 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02f94a74-0bf4-4a1b-bc91-451270f98e4c")
+	)
+	(wire
+		(pts
 			(xy 38.1 55.88) (xy 36.83 55.88)
 		)
 		(stroke
@@ -3008,6 +3018,26 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 114.3) (xy 133.35 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1750e220-d3e8-4d59-a1a7-c39e4c009f19")
+	)
+	(wire
+		(pts
+			(xy 123.19 157.48) (xy 133.35 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19499ad9-2056-472d-9db0-c2bbf138d89e")
+	)
+	(wire
+		(pts
 			(xy 138.43 26.67) (xy 146.05 26.67)
 		)
 		(stroke
@@ -3068,6 +3098,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 157.48) (xy 102.87 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20ed6513-9c2f-444b-935a-e488871758fd")
+	)
+	(wire
+		(pts
 			(xy 93.98 24.13) (xy 104.14 24.13)
 		)
 		(stroke
@@ -3118,6 +3158,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 162.56) (xy 133.35 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29df2a7c-d64e-4aa5-9853-daef86027069")
+	)
+	(wire
+		(pts
 			(xy 52.07 24.13) (xy 36.83 24.13)
 		)
 		(stroke
@@ -3135,6 +3185,16 @@
 			(type default)
 		)
 		(uuid "2bfa25cc-eb53-4ce3-9fd4-e153f0c61564")
+	)
+	(wire
+		(pts
+			(xy 133.35 162.56) (xy 133.35 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e318ae5-e18c-4260-abd9-8d5d892c3255")
 	)
 	(wire
 		(pts
@@ -3278,6 +3338,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 92.71) (xy 102.87 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47c9d444-7d0d-4da0-a7c8-6731c9b6acad")
+	)
+	(wire
+		(pts
 			(xy 201.93 21.59) (xy 201.93 19.05)
 		)
 		(stroke
@@ -3315,6 +3385,16 @@
 			(type default)
 		)
 		(uuid "4a2f11ef-0593-47d9-8d2d-4e7285970b02")
+	)
+	(wire
+		(pts
+			(xy 123.19 92.71) (xy 133.35 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a43b0a5-b909-4fa7-8299-7aea76863149")
 	)
 	(wire
 		(pts
@@ -3378,6 +3458,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 109.22) (xy 133.35 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5314c1c9-ee6a-417a-88f9-f34f541d03f4")
+	)
+	(wire
+		(pts
 			(xy 201.93 21.59) (xy 201.93 39.37)
 		)
 		(stroke
@@ -3385,6 +3475,46 @@
 			(type default)
 		)
 		(uuid "55718622-14db-4108-840a-d34a52faa8dd")
+	)
+	(wire
+		(pts
+			(xy 102.87 127) (xy 102.87 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "558582c1-06df-4362-94c5-1a876a69aa68")
+	)
+	(wire
+		(pts
+			(xy 102.87 157.48) (xy 102.87 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55ab5d98-4ba8-428a-a5c5-b793eb90d7b3")
+	)
+	(wire
+		(pts
+			(xy 102.87 92.71) (xy 102.87 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59957f46-9a4f-4319-b18e-803a63eb6ce8")
+	)
+	(wire
+		(pts
+			(xy 107.95 142.24) (xy 102.87 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5a393412-7958-466f-a479-d21e56723e71")
 	)
 	(wire
 		(pts
@@ -3418,6 +3548,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 147.32) (xy 133.35 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66c94e13-8cc6-48d5-8a1e-5489b47224e5")
+	)
+	(wire
+		(pts
 			(xy 234.95 26.67) (xy 237.49 26.67)
 		)
 		(stroke
@@ -3425,6 +3565,16 @@
 			(type default)
 		)
 		(uuid "68579e7d-d1a5-4640-a872-b1a3e238c38c")
+	)
+	(wire
+		(pts
+			(xy 107.95 109.22) (xy 102.87 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69565078-d091-466f-9bbe-82757c54181e")
 	)
 	(wire
 		(pts
@@ -3535,6 +3685,16 @@
 			(type default)
 		)
 		(uuid "76ecd381-f5b9-44d2-9649-1fbf4a3bb666")
+	)
+	(wire
+		(pts
+			(xy 102.87 147.32) (xy 133.35 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78ff6d54-eedf-47f8-aea6-9def95e22d26")
 	)
 	(wire
 		(pts
@@ -3678,6 +3838,16 @@
 	)
 	(wire
 		(pts
+			(xy 133.35 97.79) (xy 133.35 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c8cdfe6-69f4-47fb-91ed-edd1f709d993")
+	)
+	(wire
+		(pts
 			(xy 226.06 21.59) (xy 226.06 36.83)
 		)
 		(stroke
@@ -3695,6 +3865,16 @@
 			(type default)
 		)
 		(uuid "a6d78fe9-67de-4e0b-9fb7-f33497f94a53")
+	)
+	(wire
+		(pts
+			(xy 102.87 132.08) (xy 133.35 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9ddf187-2d64-40e5-a838-2e2b802f474b")
 	)
 	(wire
 		(pts
@@ -3725,6 +3905,16 @@
 			(type default)
 		)
 		(uuid "b2ee3890-b535-41b3-9e90-5cd4383d856f")
+	)
+	(wire
+		(pts
+			(xy 102.87 142.24) (xy 102.87 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b32ac044-d39d-4949-9dac-e5efc9182a9f")
 	)
 	(wire
 		(pts
@@ -3778,6 +3968,16 @@
 	)
 	(wire
 		(pts
+			(xy 102.87 109.22) (xy 102.87 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2810663-0b9d-4fe8-8a4f-32cee75666c6")
+	)
+	(wire
+		(pts
 			(xy 209.55 48.26) (xy 212.09 48.26)
 		)
 		(stroke
@@ -3785,6 +3985,26 @@
 			(type default)
 		)
 		(uuid "c3a05348-4d1c-4fb9-94d8-65332f7ffa20")
+	)
+	(wire
+		(pts
+			(xy 102.87 114.3) (xy 133.35 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c46bd7a3-91ed-4e65-9822-f5e123d3030f")
+	)
+	(wire
+		(pts
+			(xy 123.19 142.24) (xy 133.35 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c58fa885-a209-4344-8656-708382c9c59f")
 	)
 	(wire
 		(pts
@@ -3808,6 +4028,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 127) (xy 133.35 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9b328ff-d8b9-4fa9-96a6-d546e8f29184")
+	)
+	(wire
+		(pts
 			(xy 93.98 26.67) (xy 93.98 24.13)
 		)
 		(stroke
@@ -3825,6 +4055,16 @@
 			(type default)
 		)
 		(uuid "ccebd4f5-d0be-4db4-a2f7-44a6215147d9")
+	)
+	(wire
+		(pts
+			(xy 102.87 97.79) (xy 133.35 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd275914-3514-4f39-8905-67b7fdb52c41")
 	)
 	(wire
 		(pts
@@ -4155,6 +4395,16 @@
 			(type default)
 		)
 		(uuid "fd935c06-17c8-46c9-ab23-132e1cea3c1b")
+	)
+	(wire
+		(pts
+			(xy 133.35 132.08) (xy 133.35 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fd9ff484-d9ee-4000-b7db-fa60783b47f9")
 	)
 	(text "Have to be matched resistors!\n"
 		(exclude_from_sim no)
@@ -4553,6 +4803,110 @@
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "R88")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:40106")
+		(at 115.57 92.71 0)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16663b21-00d4-45ac-8d75-242ffb3012a0")
+		(property "Reference" "U1"
+			(at 115.57 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "40106"
+			(at 115.57 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+			(at 115.57 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
+			(at 115.57 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Schmitt trigger inverter"
+			(at 115.57 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+		)
+		(pin "2"
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+		)
+		(pin "14"
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+		)
+		(pin "12"
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+		)
+		(pin "10"
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+		)
+		(pin "13"
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+		)
+		(pin "8"
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+		)
+		(pin "11"
+			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+		)
+		(pin "1"
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+		)
+		(pin "5"
+			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+		)
+		(pin "9"
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+		)
+		(pin "4"
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+		)
+		(pin "6"
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+		)
+		(pin "3"
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+		)
+		(instances
+			(project ""
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "U1")
+					(unit 2)
 				)
 			)
 		)
@@ -5037,6 +5391,76 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "TH4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 138.43 144.78 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "230ebb89-d1a3-454f-9b2f-2b1359c64b00")
+		(property "Reference" "J4"
+			(at 139.7 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "shmidt trigger 5"
+			(at 139.7 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+			(at 138.43 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 138.43 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25dd7ab3-fb76-4039-9a03-b7c89bb7e00d")
+		)
+		(pin "2"
+			(uuid "ff2d9557-2acb-4071-a00d-b57242b52a49")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -6062,6 +6486,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 138.43 111.76 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "583f3ba9-4736-46cf-aaf5-b6edd75279e6")
+		(property "Reference" "J2"
+			(at 139.7 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "shmidt trigger 3"
+			(at 139.7 111.7599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+			(at 138.43 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 138.43 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3d6fc8f6-9157-445d-a1b6-c89ab64af547")
+		)
+		(pin "2"
+			(uuid "dd19aca9-b00d-4400-9776-07ca78c83187")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 205.74 48.26 270)
 		(unit 1)
@@ -6699,6 +7193,110 @@
 		)
 	)
 	(symbol
+		(lib_id "4xxx:40106")
+		(at 115.57 127 0)
+		(unit 4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a5ef5c5-b65b-4a01-b108-c2f17bcc22df")
+		(property "Reference" "U1"
+			(at 115.57 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "40106"
+			(at 115.57 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+			(at 115.57 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
+			(at 115.57 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Schmitt trigger inverter"
+			(at 115.57 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+		)
+		(pin "2"
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+		)
+		(pin "14"
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+		)
+		(pin "12"
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+		)
+		(pin "10"
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+		)
+		(pin "13"
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+		)
+		(pin "8"
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+		)
+		(pin "11"
+			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+		)
+		(pin "1"
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+		)
+		(pin "5"
+			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+		)
+		(pin "9"
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+		)
+		(pin "4"
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+		)
+		(pin "6"
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+		)
+		(pin "3"
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+		)
+		(instances
+			(project ""
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "U1")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 138.43 45.72 180)
 		(unit 1)
@@ -6896,6 +7494,110 @@
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "#PWR0128")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:40106")
+		(at 115.57 109.22 0)
+		(unit 3)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "792296bf-65af-4904-926d-0e46ed57d206")
+		(property "Reference" "U1"
+			(at 115.57 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "40106"
+			(at 115.57 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+			(at 115.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
+			(at 115.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Schmitt trigger inverter"
+			(at 115.57 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+		)
+		(pin "2"
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+		)
+		(pin "14"
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+		)
+		(pin "12"
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+		)
+		(pin "10"
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+		)
+		(pin "13"
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+		)
+		(pin "8"
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+		)
+		(pin "11"
+			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+		)
+		(pin "1"
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+		)
+		(pin "5"
+			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+		)
+		(pin "9"
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+		)
+		(pin "4"
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+		)
+		(pin "6"
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+		)
+		(pin "3"
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+		)
+		(instances
+			(project ""
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "U1")
+					(unit 3)
 				)
 			)
 		)
@@ -7304,6 +8006,76 @@
 			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "J11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 138.43 129.54 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99cee203-f824-4794-a086-1ca5df21135f")
+		(property "Reference" "J3"
+			(at 139.7 126.9999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "shmidt trigger 4"
+			(at 139.7 129.5399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+			(at 138.43 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 138.43 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3d33bf0-df72-4edf-a475-b77ab78db780")
+		)
+		(pin "2"
+			(uuid "4ecef6b7-10ad-4cf4-9c5d-805d598565b7")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -8299,6 +9071,110 @@
 		)
 	)
 	(symbol
+		(lib_id "4xxx:40106")
+		(at 115.57 142.24 0)
+		(unit 5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5ecac21-bb4e-4fcf-836d-02b2787b9551")
+		(property "Reference" "U1"
+			(at 115.57 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "40106"
+			(at 115.57 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+			(at 115.57 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
+			(at 115.57 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Schmitt trigger inverter"
+			(at 115.57 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+		)
+		(pin "2"
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+		)
+		(pin "14"
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+		)
+		(pin "12"
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+		)
+		(pin "10"
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+		)
+		(pin "13"
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+		)
+		(pin "8"
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+		)
+		(pin "11"
+			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+		)
+		(pin "1"
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+		)
+		(pin "5"
+			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+		)
+		(pin "9"
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+		)
+		(pin "4"
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+		)
+		(pin "6"
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+		)
+		(pin "3"
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+		)
+		(instances
+			(project ""
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "U1")
+					(unit 5)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Trim")
 		(at 93.98 40.64 0)
 		(unit 1)
@@ -8539,6 +9415,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 138.43 95.25 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e7901860-c79c-4029-ae72-40d897b23949")
+		(property "Reference" "J1"
+			(at 139.7 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "shmidt trigger 2"
+			(at 139.7 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+			(at 138.43 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 138.43 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "287b7b84-a74c-424b-979d-d09ffb9cb1cb")
+		)
+		(pin "2"
+			(uuid "64ff23d4-bede-4585-9b98-13d896170242")
+		)
+		(instances
+			(project ""
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Potentiometer")
 		(at 82.55 46.99 180)
 		(unit 1)
@@ -8607,6 +9553,180 @@
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "RV7")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 138.43 160.02 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb48ded8-4235-4b3a-9e46-0d44368333f3")
+		(property "Reference" "J5"
+			(at 139.7 157.4799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "shmidt trigger 6"
+			(at 139.7 160.0199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+			(at 138.43 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 138.43 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 138.43 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95c8e0f6-2d20-4fa5-89ad-77f2e47a3178")
+		)
+		(pin "2"
+			(uuid "2b7af124-b4a1-4736-967a-58e9223b41cb")
+		)
+		(instances
+			(project "VCO_selfetch"
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "4xxx:40106")
+		(at 115.57 157.48 0)
+		(unit 6)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0ef7dfc-4502-4dc8-ad67-5e20b9d78640")
+		(property "Reference" "U1"
+			(at 115.57 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "40106"
+			(at 115.57 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/HEF40106B.pdf"
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Hex Schmitt trigger inverter"
+			(at 115.57 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "7"
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+		)
+		(pin "2"
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+		)
+		(pin "14"
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+		)
+		(pin "12"
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+		)
+		(pin "10"
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+		)
+		(pin "13"
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+		)
+		(pin "8"
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+		)
+		(pin "11"
+			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+		)
+		(pin "1"
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+		)
+		(pin "5"
+			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+		)
+		(pin "9"
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+		)
+		(pin "4"
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+		)
+		(pin "6"
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+		)
+		(pin "3"
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+		)
+		(instances
+			(project ""
+				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
+					(reference "U1")
+					(unit 6)
 				)
 			)
 		)
