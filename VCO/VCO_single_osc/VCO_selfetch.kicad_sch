@@ -4903,7 +4903,7 @@
 			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
 		)
 		(instances
-			(project ""
+			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "U1")
 					(unit 2)
@@ -5424,7 +5424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 			(at 138.43 144.78 0)
 			(effects
 				(font
@@ -6513,7 +6513,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 			(at 138.43 111.76 0)
 			(effects
 				(font
@@ -7246,49 +7246,49 @@
 			)
 		)
 		(pin "7"
-			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+			(uuid "902752e7-d758-495b-8875-0bae14ac8edf")
 		)
 		(pin "2"
-			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb703")
 		)
 		(pin "14"
-			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a5")
 		)
 		(pin "12"
-			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc3a")
 		)
 		(pin "10"
-			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f691")
 		)
 		(pin "13"
-			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae60")
 		)
 		(pin "8"
-			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee4")
 		)
 		(pin "11"
-			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+			(uuid "9d452e00-613e-476f-9735-72c1848d064c")
 		)
 		(pin "1"
-			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981be")
 		)
 		(pin "5"
-			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+			(uuid "edf4981f-d662-4433-9b55-340f37ec46ff")
 		)
 		(pin "9"
-			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06e")
 		)
 		(pin "4"
-			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a574")
 		)
 		(pin "6"
-			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe225")
 		)
 		(pin "3"
-			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c944")
 		)
 		(instances
-			(project ""
+			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "U1")
 					(unit 4)
@@ -7552,49 +7552,49 @@
 			)
 		)
 		(pin "7"
-			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ee0")
 		)
 		(pin "2"
-			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb704")
 		)
 		(pin "14"
-			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a6")
 		)
 		(pin "12"
-			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc3b")
 		)
 		(pin "10"
-			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f692")
 		)
 		(pin "13"
-			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae61")
 		)
 		(pin "8"
-			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee5")
 		)
 		(pin "11"
-			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+			(uuid "9d452e00-613e-476f-9735-72c1848d064d")
 		)
 		(pin "1"
-			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bf")
 		)
 		(pin "5"
-			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+			(uuid "edf4981f-d662-4433-9b55-340f37ec4700")
 		)
 		(pin "9"
-			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06f")
 		)
 		(pin "4"
-			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a575")
 		)
 		(pin "6"
-			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe226")
 		)
 		(pin "3"
-			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c945")
 		)
 		(instances
-			(project ""
+			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "U1")
 					(unit 3)
@@ -8039,7 +8039,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 			(at 138.43 129.54 0)
 			(effects
 				(font
@@ -9124,49 +9124,49 @@
 			)
 		)
 		(pin "7"
-			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ee1")
 		)
 		(pin "2"
-			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb705")
 		)
 		(pin "14"
-			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a7")
 		)
 		(pin "12"
-			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc3c")
 		)
 		(pin "10"
-			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f693")
 		)
 		(pin "13"
-			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae62")
 		)
 		(pin "8"
-			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee6")
 		)
 		(pin "11"
-			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+			(uuid "9d452e00-613e-476f-9735-72c1848d064e")
 		)
 		(pin "1"
-			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981c0")
 		)
 		(pin "5"
-			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+			(uuid "edf4981f-d662-4433-9b55-340f37ec4701")
 		)
 		(pin "9"
-			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d070")
 		)
 		(pin "4"
-			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a576")
 		)
 		(pin "6"
-			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe227")
 		)
 		(pin "3"
-			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c946")
 		)
 		(instances
-			(project ""
+			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "U1")
 					(unit 5)
@@ -9442,7 +9442,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 			(at 138.43 95.25 0)
 			(effects
 				(font
@@ -9476,7 +9476,7 @@
 			(uuid "64ff23d4-bede-4585-9b98-13d896170242")
 		)
 		(instances
-			(project ""
+			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "J1")
 					(unit 1)
@@ -9585,7 +9585,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.00mm:PinHeader_1x02_P2.00mm_Vertical"
 			(at 138.43 160.02 0)
 			(effects
 				(font
@@ -9681,49 +9681,49 @@
 			)
 		)
 		(pin "7"
-			(uuid "902752e7-d758-495b-8875-0bae14ac8ede")
+			(uuid "902752e7-d758-495b-8875-0bae14ac8ee2")
 		)
 		(pin "2"
-			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb702")
+			(uuid "5db80399-4fb0-4e6d-b76d-1557009fb706")
 		)
 		(pin "14"
-			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a4")
+			(uuid "522abbf2-a6cc-4e91-9b92-2fca697887a8")
 		)
 		(pin "12"
-			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc39")
+			(uuid "144a6da8-f2e5-48ad-8219-a853b883dc3d")
 		)
 		(pin "10"
-			(uuid "ec6135e0-772c-46e3-bf25-35275700f690")
+			(uuid "ec6135e0-772c-46e3-bf25-35275700f694")
 		)
 		(pin "13"
-			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae5f")
+			(uuid "3aa0ab39-af6a-4132-b55e-22894ed2ae63")
 		)
 		(pin "8"
-			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee3")
+			(uuid "f09bc5f5-1512-467c-8cbb-ae61d12d0ee7")
 		)
 		(pin "11"
-			(uuid "9d452e00-613e-476f-9735-72c1848d064b")
+			(uuid "9d452e00-613e-476f-9735-72c1848d064f")
 		)
 		(pin "1"
-			(uuid "f5bc7089-72bc-4bd9-b790-715009d981bd")
+			(uuid "f5bc7089-72bc-4bd9-b790-715009d981c1")
 		)
 		(pin "5"
-			(uuid "edf4981f-d662-4433-9b55-340f37ec46fe")
+			(uuid "edf4981f-d662-4433-9b55-340f37ec4702")
 		)
 		(pin "9"
-			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d06d")
+			(uuid "9b55d486-1a71-4a15-8fa9-4ec338c1d071")
 		)
 		(pin "4"
-			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a573")
+			(uuid "9e86bcca-8e40-4f64-9740-12f70a47a577")
 		)
 		(pin "6"
-			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe224")
+			(uuid "9d88d22e-7d86-4e6a-b3d3-96294fdbe228")
 		)
 		(pin "3"
-			(uuid "1d17ce08-f278-4097-9c49-a950ee53c943")
+			(uuid "1d17ce08-f278-4097-9c49-a950ee53c947")
 		)
 		(instances
-			(project ""
+			(project "VCO_selfetch"
 				(path "/6b8d1967-0d10-4b5c-9e39-62e89318329d"
 					(reference "U1")
 					(unit 6)
